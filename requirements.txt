@@ -2,3 +2,5 @@ ipykernel
 groq<=0.10.0
 python-dotenv
 agentic_patterns
+openai
+openai-agents
