@@ -1,0 +1,3 @@
+ipykernel
+groq
+python-dotenv
